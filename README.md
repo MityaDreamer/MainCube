@@ -1,2 +1,6 @@
 # MainCube
 A place, where you can find interesting information sometimes. Sometimes...
+
+So. GitHub ask me write some information about me.
+Am...
+Okay! I'm an ordinary student, which try research new interesting information about programming :D
